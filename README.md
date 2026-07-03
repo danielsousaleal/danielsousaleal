@@ -1,4 +1,4 @@
-## 👨‍💻 Olá! Sou Pedro Henrique
+## 👨‍💻 Olá! Sou Daniel Leal
 
 Sou um desenvolvedor focado em **Systems Programming** e **Fullstack**, com paixão por entender como as coisas funcionam "debaixo do capô". Minha stack vai do Assembly ao Next.js.
 
@@ -48,8 +48,8 @@ Sou um desenvolvedor focado em **Systems Programming** e **Fullstack**, com paix
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <a href="https://github.com/pedrortxdev">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrortxdev&show_icons=true&theme=dracula&include_all_commits=true"/>
- <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrortxdev&layout=compact&langs_count=10&theme=dracula"/>
+  <a href="https://github.com/danielsousaleal">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielsousaleal&show_icons=true&theme=dracula&include_all_commits=true"/>
+ <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danielsousaleal&layout=compact&langs_count=10&theme=dracula"/>
   </a>
 </div>
