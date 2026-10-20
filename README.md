@@ -38,18 +38,3 @@ Sou um desenvolvedor focado em **Systems Programming** e **Fullstack**, com paix
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-
-<br>
-
-> _"Código rápido, memória segura e infraestrutura imutável."_ ⚡
-
----
-
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <a href="https://github.com/danielsousaleal">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielsousaleal&show_icons=true&theme=dracula&include_all_commits=true"/>
- <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danielsousaleal&layout=compact&langs_count=10&theme=dracula"/>
-  </a>
-</div>
