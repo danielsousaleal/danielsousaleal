@@ -1,40 +1,72 @@
-## 👨‍💻 Olá! Sou Daniel Leal
+<h1 align="center">Olá, eu sou o Daniel Leal 👋</h1>
 
-Sou um desenvolvedor focado em **Systems Programming** e **Fullstack**, com paixão por entender como as coisas funcionam "debaixo do capô". Minha stack vai do Assembly ao Next.js.
+<p align="center">
+  <b>Systems Programmer | Fullstack Developer | Hypervisor Builder</b>
+</p>
 
-- 🔭 **Projeto Atual:** Criando o **Axion**, uma plataforma de virtualização (NextJS + Go), e o **AxHV**, um hypervisor moderno escrito em Rust.
-- 🦀 **Interesses:** Virtualização, Otimização de Memória e Engenharia Reversa.
+<p align="center">
+  <i>"Do Assembly ao Next.js: construindo a infraestrutura que move a nuvem."</i>
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+
+Sou um desenvolvedor apaixonado por entender como as coisas funcionam "debaixo do capô". Minha rotina é transitar entre a otimização de memória em baixo nível e a criação de interfaces web complexas. 
+
+Atualmente, estou focado em construir ferramentas de virtualização e orquestração, além de explorar como agentes de IA podem acelerar a engenharia de software.
+
+- 🔭 **Projetos Atuais:** 
+  - **[AxHV](https://github.com/danielsousaleal/AxHV)**: Um hypervisor moderno baseado em Firecracker, escrito 100% em **Rust**. Focado em isolamento seguro (jailer, seccomp), gestão de VMs e snapshots de alto desempenho.
+  - **Axion**: Uma plataforma completa de virtualização (Backend em Go + Frontend em Next.js).
+- 🦀 **Interesses:** Virtualização (KVM/Firecracker), Otimização de Memória, Segurança de Sistemas, Engenharia Reversa e Desenvolvimento Agêntico com IA.
 
 ---
 
 ### 🚀 Stack Tecnológica
 
-**Low-Level & Systems (Onde a mágica acontece):**
-<div style="display: inline_block">
-  <img align="center" alt="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
-  <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
-</div>
+**Low-Level & Systems**
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-**Backend & Enterprise:**
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+**Backend & APIs**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
-**Frontend (Axion Interface):**
-<div style="display: inline_block">
-  <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+**Frontend (Axion Interface)**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-**Infra & Ferramentas:**
-<div style="display: inline_block">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+**Infra & Ferramentas**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielsousaleal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsousaleal&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+<p align="center">
+  <i>Construindo o futuro da virtualização, um byte de cada vez.</i>
+</p>
