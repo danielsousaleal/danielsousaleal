@@ -4,26 +4,8 @@
   <b>Systems Programmer | Fullstack Developer | Hypervisor Builder</b>
 </p>
 
-<p align="center">
-  <i>"Do Assembly ao Next.js: construindo a infraestrutura que move a nuvem."</i>
-</p>
 
----
-
-### 👨‍💻 Sobre mim
-
-Sou um desenvolvedor apaixonado por entender como as coisas funcionam "debaixo do capô". Minha rotina é transitar entre a otimização de memória em baixo nível e a criação de interfaces web complexas. 
-
-Atualmente, estou focado em construir ferramentas de virtualização e orquestração, além de explorar como agentes de IA podem acelerar a engenharia de software.
-
-- 🔭 **Projetos Atuais:** 
-  - **[AxHV](https://github.com/danielsousaleal/AxHV)**: Um hypervisor moderno baseado em Firecracker, escrito 100% em **Rust**. Focado em isolamento seguro (jailer, seccomp), gestão de VMs e snapshots de alto desempenho.
-  - **Axion**: Uma plataforma completa de virtualização (Backend em Go + Frontend em Next.js).
-- 🦀 **Interesses:** Virtualização (KVM/Firecracker), Otimização de Memória, Segurança de Sistemas, Engenharia Reversa e Desenvolvimento Agêntico com IA.
-
----
-
-### 🚀 Stack Tecnológica
+### Stack
 
 **Low-Level & Systems**
 <p>
@@ -41,7 +23,7 @@ Atualmente, estou focado em construir ferramentas de virtualização e orquestra
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-**Frontend (Axion Interface)**
+**Frontend**
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -56,17 +38,3 @@ Atualmente, estou focado em construir ferramentas de virtualização e orquestra
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielsousaleal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsousaleal&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
-</p>
-
----
-
-<p align="center">
-  <i>Construindo o futuro da virtualização, um byte de cada vez.</i>
-</p>
